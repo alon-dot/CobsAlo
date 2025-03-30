@@ -23,3 +23,5 @@ Route::middleware(['auth', AuthAdmin::class])->group(function() {
 
 
 // holaaaa yisus ayudame
+
+//joasjalbcmxmskz
